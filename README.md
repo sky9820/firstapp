@@ -1,2 +1,2 @@
 # firstapp
-My first App
+My first App in Django (Python)
